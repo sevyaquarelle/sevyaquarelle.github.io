@@ -1,7 +1,7 @@
 # Aquarelles
 
 
-
+------------ | -------------
 <a href="./Mon jardin.jpg "><img src="./Mon jardin.jpg" width="200" /> </a> | Mon Jardin. Dimensions : XX x XX cm
 
 <a href="./Papy arabe.jpg "><img src="./Papy arabe.jpg" width="200" /> </a>
