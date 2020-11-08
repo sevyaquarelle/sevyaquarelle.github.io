@@ -51,3 +51,18 @@
 <a href="./L’eau de vie.jpg  "><img src="./L’eau de vie.jpg " width="200" /> </a>
 
 
+
+<div class="container-lg clearfix">
+  <div class="col-4 float-left border p-4">
+    My column
+  </div>
+  <div class="col-4 float-left border p-4">
+    Looks better
+  </div>
+  <div class="col-4 float-left border p-4">
+    Than your column
+  </div>
+</div>
+
+
+
