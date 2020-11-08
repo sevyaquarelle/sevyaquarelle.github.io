@@ -1,8 +1,33 @@
 # Aquarelles
 
-<a href="https://freight.cargo.site/t/original/i/2f73f15302add4db7987f1024af97a5e13b93b18df6b87691c7bfe01364f5cc0/IMG_5975.jpg"><img src="https://freight.cargo.site/t/original/i/2f73f15302add4db7987f1024af97a5e13b93b18df6b87691c7bfe01364f5cc0/IMG_5975.jpg" width="200" /></a> <a href="https://freight.cargo.site/t/original/i/239c6f113f61c846543f8aa5d5fbec3b89aed006d7438406cf46d76d2ce99f62/IMG_5939-2.jpg"> <img src="https://freight.cargo.site/t/original/i/239c6f113f61c846543f8aa5d5fbec3b89aed006d7438406cf46d76d2ce99f62/IMG_5939-2.jpg" width="200" /></a>
-
-<a href="https://freight.cargo.site/t/original/i/b5090cab204a00c0f7991fd5049267754072df9ce725b9217c5a3d2dc79a7667/IMG_5992.jpg"> <img src="https://freight.cargo.site/t/original/i/b5090cab204a00c0f7991fd5049267754072df9ce725b9217c5a3d2dc79a7667/IMG_5992.jpg" width="200" /></a>
 
 
 <a href="./Mon jardin.jpg "><img src="./Mon jardin.jpg" width="200" /> </a>
+
+<a href="./Papy arabe.jpg "><img src="./Papy arabe.jpg" width="200" /> </a>
+
+<a href="./Promenade matinale 50x70.jpg "><img src="./Promenade matinale 50x70.jpg" width="200" /> </a>
+
+<a href="./Réconfort 50x70.JPG"><img src="./Réconfort 50x70.JPG" width="200" /> </a>
+
+<a href="./Saint Nazaire le désert 50x70.jpeg "><img src="./Saint Nazaire le désert 50x70.jpeg" width="200" /> </a>
+
+<a href="./Sous-bois.jpg "><img src="./Sous-bois.jpg" width="200" /> </a>
+
+<a href="./Split Croatie 50x70.jpg "><img src="./Split Croatie 50x70.jpg" width="200" /> </a>
+
+<a href="./Tenzin dans ses pensées 40x50.jpg "><img src="./Tenzin dans ses pensées 40x50.jpg" width="200" /> </a>
+
+<a href="./Touareg in the desert .jpg  "><img src="./Touareg in the desert .jpg " width="200" /> </a>
+
+<a href="./Un jour à SALAMANQUE 50x70.JPG "><img src="./Un jour à SALAMANQUE 50x70.JPG" width="200" /> </a>
+
+<a href="./Un petit Paradis 50x70 1.jpeg "><img src="./Un petit Paradis 50x70 1.jpeg" width="200" /> </a>
+
+<a href="./Vue sur st Benoit..25x25.jpg "><img src="./Vue sur st Benoit..25x25.jpg" width="200" /> </a>
+
+
+
+
+
+
