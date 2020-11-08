@@ -1,19 +1,6 @@
 # Aquarelles
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Petite description, ou petit texte de présentation ici ?
 
 
 
@@ -30,12 +17,5 @@
 | <a href="./Bienveillance 50x70.jpg "><img src="./Bienveillance 50x70.jpg" width="200" /> </a> <br> Titre & dimensions | <a href="./Embruns 50x70.jpg "><img src="./Embruns 50x70.jpg" width="200" /> </a> <br> Titre & dimensions |
 | <a href="./Guitariste.jpg "><img src="./Guitariste.jpg" width="200" /> </a> <br> Titre & dimensions | <a href="./IMG_4574.jpg "><img src="./IMG_4574.jpg" width="200" /> </a> <br> Titre & dimensions |
 | <a href="./IMG_4581.jpg "><img src="./IMG_4581.jpg" width="200" /> </a> <br> Titre & dimensions | <a href="./Joie de vivre 50x70.jpg "><img src="./Joie de vivre 50x70.jpg" width="200" /> </a> <br> Titre & dimensions |
-| <a href="./L’eau de vie.jpg  "><img src="./L’eau de vie.jpg " width="200" /> </a> <br> Titre & dimensions | Row 3 Column 3 <br> Titre & dimensions |
+| <a href="./L’eau de vie.jpg  "><img src="./L’eau de vie.jpg " width="200" /> </a> <br> Titre & dimensions | X <br> Titre & dimensions |
  
- 
-| Row 3 Column 1 | Titre & dimensions | Row 3 Column 3 | Titre & dimensions |
-
-
-
-
-
