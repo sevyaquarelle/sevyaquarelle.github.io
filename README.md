@@ -2,13 +2,15 @@
 
 
 ------------ | -------------
-<a href="./Mon jardin.jpg "><img src="./Mon jardin.jpg" width="200" /> </a> | Mon Jardin. Dimensions : XX x XX cm
 
-<a href="./Papy arabe.jpg "><img src="./Papy arabe.jpg" width="200" /> </a>
+<a href="./Mon jardin.jpg "><img src="./Mon jardin.jpg" width="200" /> </a> | Mon Jardin. Dimensions : XX x XX cm |  
+<a href="./Papy arabe.jpg "><img src="./Papy arabe.jpg" width="200" /> </a> | Papy.       Dimensions : XX x XX cm |
 
-<a href="./Promenade matinale 50x70.jpg "><img src="./Promenade matinale 50x70.jpg" width="200" /> </a>
+------------ | -------------
 
-<a href="./Réconfort 50x70.JPG"><img src="./Réconfort 50x70.JPG" width="200" /> </a>
+<a href="./Promenade matinale 50x70.jpg "><img src="./Promenade matinale 50x70.jpg" width="200" /> </a> | Promenade matinale. Dimensions : XX x XX cm |
+
+<a href="./Réconfort 50x70.JPG"><img src="./Réconfort 50x70.JPG" width="200" /> </a> | Réconfort. Dimensions : XX x XX cm |
 
 <a href="./Saint Nazaire le désert 50x70.jpeg "><img src="./Saint Nazaire le désert 50x70.jpeg" width="200" /> </a>
 
