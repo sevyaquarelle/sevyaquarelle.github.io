@@ -17,10 +17,9 @@
 
 
 
-| Column 1 Header | Column 2 Header | Column 3 Header | Column 4 |
-| --------------- | --------------- | --------------- | -------- |
-
-| <a href="./Mon jardin.jpg "><img src="./Mon jardin.jpg" width="200" /> </a>  | Mon Jardin. Dimensions : XX x XX cm | <a href="./Papy arabe.jpg "><img src="./Papy arabe.jpg" width="200" /> </a> | Papy.       Dimensions : XX x XX cm |
+| Column 1 Header | Column 2 Header | 
+| --------------- | --------------- | 
+| <a href="./Mon jardin.jpg "><img src="./Mon jardin.jpg" width="200" /> </a>  <br> Mon Jardin. Dimensions : XX x XX cm | <a href="./Papy arabe.jpg "><img src="./Papy arabe.jpg" width="200" /> </a> <br> Papy.       Dimensions : XX x XX cm |
 | <a href="./Promenade matinale 50x70.jpg "><img src="./Promenade matinale 50x70.jpg" width="200" /> </a> | Promenade matinale. Dimensions : XX x XX cm | <a href="./Réconfort 50x70.JPG"><img src="./Réconfort 50x70.JPG" width="200" /> </a> | Réconfort. Dimensions : XX x XX cm |
 | <a href="./Saint Nazaire le désert 50x70.jpeg "><img src="./Saint Nazaire le désert 50x70.jpeg" width="200" /> </a> | Titre & dimensions | <a href="./Sous-bois.jpg "><img src="./Sous-bois.jpg" width="200" /> </a> | Titre & dimensions |
 | <a href="./Split Croatie 50x70.jpg "><img src="./Split Croatie 50x70.jpg" width="200" /> </a>  | Titre & dimensions | <a href="./Tenzin dans ses pensées 40x50.jpg "><img src="./Tenzin dans ses pensées 40x50.jpg" width="200" /> </a>
