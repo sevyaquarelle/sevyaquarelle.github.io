@@ -26,8 +26,26 @@
 
 <a href="./Vue sur st Benoit..25x25.jpg "><img src="./Vue sur st Benoit..25x25.jpg" width="200" /> </a>
 
+<a href="./A bicyclette.jpg "><img src="./A bicyclette.jpg" width="200" /> </a>
 
+<a href="./AMOUR VENICIEN 50x70.jpg "><img src="./AMOUR VENICIEN 50x70.jpg" width="200" /> </a>
 
+<a href="./Après l’orage.jpg "><img src="./Après l’orage.jpg" width="200" /> </a>
 
+<a href="./Ballade en forêt 50x70.jpeg "><img src="./Ballade en forêt 50x70.jpeg" width="200" /> </a>
+
+<a href="./Bienveillance 50x70.jpg "><img src="./Bienveillance 50x70.jpg" width="200" /> </a>
+
+<a href="./Embruns 50x70.jpg "><img src="./Embruns 50x70.jpg" width="200" /> </a>
+
+<a href="./Guitariste.jpg "><img src="./Guitariste.jpg" width="200" /> </a>
+
+<a href="./IMG_4574.jpg "><img src="./IMG_4574.jpg" width="200" /> </a>
+
+<a href="./IMG_4581.jpg "><img src="./IMG_4581.jpg" width="200" /> </a>
+
+<a href="./Joie de vivre 50x70.jpg "><img src="./Joie de vivre 50x70.jpg" width="200" /> </a>
+
+<a href="./L’eau de vie.jpg  "><img src="./L’eau de vie.jpg " width="200" /> </a>
 
 
