@@ -4,7 +4,7 @@ Petite description, ou petit texte de présentation ici ?
 
 
 
-| Column 1 Header | Column 2 Header | 
+|   |   | 
 | --------------- | --------------- | 
 | <a href="./Mon jardin.jpg "><img src="./Mon jardin.jpg" width="200" /> </a>  <br> Mon Jardin. Dimensions : XX x XX cm | <a href="./Papy arabe.jpg "><img src="./Papy arabe.jpg" width="200" /> </a> <br> Papy. Dimensions : XX x XX cm |
 | <a href="./Promenade matinale 50x70.jpg "><img src="./Promenade matinale 50x70.jpg" width="200" /> </a> <br> Promenade matinale. Dimensions : XX x XX cm | <a href="./Réconfort 50x70.JPG"><img src="./Réconfort 50x70.JPG" width="200" /> </a> <br> Réconfort. Dimensions : XX x XX cm |
