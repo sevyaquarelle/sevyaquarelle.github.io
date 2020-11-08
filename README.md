@@ -51,18 +51,11 @@
 <a href="./L’eau de vie.jpg  "><img src="./L’eau de vie.jpg " width="200" /> </a>
 
 
-
-<div class="container-lg clearfix">
-  <div class="col-4 float-left border p-4">
-    My column
-  </div>
-  <div class="col-4 float-left border p-4">
-    Looks better
-  </div>
-  <div class="col-4 float-left border p-4">
-    Than your column
-  </div>
-</div>
+| Column 1 Header | Column 2 Header | Column 3 Header | Column 4 |
+| --------------- | --------------- | --------------- | -------- |
+| <a href="./Mon jardin.jpg "><img src="./Mon jardin.jpg" width="200" /> </a>  | Mon Jardin. Dimensions : XX x XX cm | <a href="./Papy arabe.jpg "><img src="./Papy arabe.jpg" width="200" /> </a> | Papy.       Dimensions : XX x XX cm |
+| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 | titre |
+| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 | titre |
 
 
 
