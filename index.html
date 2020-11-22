@@ -713,6 +713,7 @@ Dimensions :
                         </div>
                     </td>
                     <td>
+                        <!--
                         <form>
                             <input type="text" placeholder="name" required>
                             <input type="email" placeholder="email" required><br>
@@ -725,6 +726,17 @@ Dimensions :
                             <input type="email" placeholder="email" required name="_replyto"><br>
                             <textarea   name="body"></textarea>
                             <input class="btn_one" type="submit" value="Send"></form>
+                        -->
+                        
+                        <form action="https://formspree.io/f/mleolqzw" method="POST">
+                          <input type="text" placeholder="votre nom" name="name" required>
+                          <input type="email" placeholder="votre email" required name="_replyto">
+                          <textarea name="body" placeholder="votre message" ></textarea>
+                          <input type="submit" value="Send">
+                        </form>
+                        
+                        
+                        
                     </td>
                 </tr>
             </table>
