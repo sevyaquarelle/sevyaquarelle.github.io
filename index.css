@@ -136,6 +136,11 @@ header table {
     font-weight:bold;
     margin:0px 8px;
 }
+.social::placeholder {
+    color:rgb(255, 44, 90);
+    padding:25px 100px;
+    font-size:12px;
+}
 .social:hover { 
     cursor: pointer;
     color:#fff;
